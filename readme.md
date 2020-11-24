@@ -119,6 +119,7 @@ Joplin now supports plugins. Here are a few interesting ones :
 - [Link to note](https://github.com/S73ph4n/joplin_autolinker) [Experimental] Checks if the selected text matches an existing note's title. If such a note exists, makes a link to it. If it doesn't, creates it.
 - [Complete link to note](https://github.com/S73ph4n/joplin_complete_link) [Experimental] Completes the selected text into a note title and links to it.
 - [Automate notes with JS](https://github.com/S73ph4n/joplin_automate_notes) [Experimental] Execute blocks of Javascript in the note, writing the results below.
+- [Day Review](https://github.com/S73ph4n/joplin_day_review) [Experimental] Makes a review of the notes and todos updated/created/completed that day.
 
 ## Tutorials
 
